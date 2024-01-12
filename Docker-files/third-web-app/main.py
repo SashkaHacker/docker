@@ -8,5 +8,5 @@ def main():
     print(os.getenv("DATABASE_URL"))
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

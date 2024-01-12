@@ -7,4 +7,4 @@ WORKDIR /usr/src/app
 
 ENV DATABASE_URL="//user:password@localhost:5432/database"
 
-CMD ["python3", "main.py"]
+CMD [ "python3", "main.py" ]
